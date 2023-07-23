@@ -4,17 +4,17 @@ Formik Login Form
 
 # **Description**: 
 
-*This is a simple login form with validation using Formik. The form includes the following: 
+This is a simple login form with validation using Formik. The form includes the following: 
 - An Email field
 - A Password field
 - A Submit Button
 
-*The form implements the following input validation rules:
+The form implements the following input validation rules:
 - If the username or password inputs are empty, display the message "field required" under the text input.
 - If the username is not in an email format, display the message "username should be an email" under the text input.
 - If the username and password pass the validation above, then display the message "Login Successful" in an `alert` box.
 
-*Formik is a small library that helps with the three aspects of creating forms in React:
+Formik is a small library that helps with the three aspects of creating forms in React:
 - Getting values in and out of the form state
 - Validation and error messages
 - Handling form submission
@@ -24,10 +24,14 @@ By collocating all three of the above in one place, Formik will keep things orga
 
 # **Installation & Usage**: 
 
-*This repo is missing the folder titled node_modules.
-*This takes a long time to load because it has to download the dependencies and then start the React development server._
-*Clone the repository or download the code files. Navigate to the project directory in your terminal. Install the necessary dependencies by running the following command: npm install Start the development server with the following command: npm start
-*The project relies on the following dependencies: React, Formik, Bootstrap
+This repo is missing the folder titled node_modules.
+
+This takes a long time to load because it has to download the dependencies and then start the React development server.
+
+Clone the repository or download the code files. Navigate to the project directory in your terminal. Install the necessary dependencies by running the following command: npm install. 
+Start the development server with the following command: npm start.
+
+The project relies on the following dependencies: React, Formik, Bootstrap
 
 # **Support**: 
 
