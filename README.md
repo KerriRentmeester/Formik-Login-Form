@@ -1,6 +1,6 @@
 # **Project Name**:  
 
-Formik Login Form
+Formik Log In Form
 
 # **Description**: 
 
@@ -20,18 +20,25 @@ Formik is a small library that helps with the three aspects of creating forms in
 - Handling form submission
 By collocating all three of the above in one place, Formik will keep things organized; thereby, making testing, refactoring, and reasoning about forms a breeze.
 
-*This simple React App is an example of my Javascript coding capabilities in learning how to create React Apps. This is a project I created from my MIT bootcamp "Professional Certificate in Coding: Full Stack Development with MERN."
+The Formik Log In Form project is an example of my ability to create a React app, employ Babel transpiler, and my JSX, Javascript, HTML5, and css coding capabilities, and as such, it is one component of my professional portfolio. This particular project is based off of similar activities I worked on in July of 2023 in module 13 of the MIT xPro via Emeritus bootcamp I was enrolled in called "Professional Certificate in Coding: Full Stack Development with MERN."
+
+**I changed the original course task styling in the following ways:**
+* Added a title
+* Altered the button's color, padding, text weight, and border.
+* Elongated the text input fields
+* Added padding and background color to the body
 
 # **Installation & Usage**: 
 
-This repo is missing the folder titled node_modules.
+To run my project on your machine, download the files onto your machine or clone the repo. Navigate to the project directory in terminal. Install the necessary dependencies by typing the command prompt: npm install. Start the server by typing the command prompt: npm start.
+
+If you are having issues, ensure the version of Node.js you are using is compatible.
 
 This takes a long time to load because it has to download the dependencies and then start the React development server.
 
-Clone the repository or download the code files. Navigate to the project directory in your terminal. Install the necessary dependencies by running the following command: npm install. 
-Start the development server with the following command: npm start.
+# **Dependencies**: 
 
-The project relies on the following dependencies: React, Formik, Bootstrap
+The project relies on the following dependencies: React, Bootstrap, Babel, Formik
 
 # **Support**: 
 
@@ -39,7 +46,14 @@ Please contact me via email at krentmeester@uwalumni.com
 
 # **Roadmap**: 
 
-Obvious improvements would be to make the form longer.
+* Add a border around log in form with a distinct background color
+* Center the log in form
+* Add restrictions to password (certain length, variety of characters, etc.)
+* Add a sign up option as an alternate.
+
+# **Contributing**: 
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 # **License**: 
 
